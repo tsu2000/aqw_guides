@@ -10,4 +10,4 @@ These are the guides the application currently offers:
 
 **Link to Web App**:
 
-[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://tsu2000-nus-cap-calculator-nus-cap-calculator-6goyc5.streamlit.app>)
+[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://tsu2000-aqw-guides-1--homepage-kvm39e.streamlit.app>)
